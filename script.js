@@ -6,7 +6,7 @@
 //     })
 // })
 
-alert('boleh pinjam dulu seratus')
+alert('eh gw minjem 10k dong')
 
 
 const tombol = document.getElementById('tombol');
