@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #0f0e0f;
+    color: green;
+
+}
+
+#tombol {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+}
+#tombol1 {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    position: relative;
+}
+
+#enter{
+    display: none;
+    text-align: center;
+}
+
+@media (max-width: 768px){
+    #enter{
+        width: 90%;
+    }
+}
